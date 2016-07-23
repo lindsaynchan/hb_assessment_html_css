@@ -1,0 +1,16 @@
+p {
+    padding: 15px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+
+form label[for=lastname] {
+    font-weight: bold;
+}
+form input[class=box] {
+    background-color: yellow;
+}
+input[type=submit] {
+    background-color: yellow;
+}
